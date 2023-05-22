@@ -8,7 +8,7 @@ def create_x_array(x: int) -> list:
 
 @app.route("/run-model")
 def run_model():
-    print("Heyy")
+    print("Heyyy")
     return "Running model"
 
 
